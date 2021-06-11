@@ -157,5 +157,8 @@ button:hover{
         width:80%;
         margin-bottom: 15%;;
     }
+    button{
+        padding:auto, 50%;
+    }
   
 }
